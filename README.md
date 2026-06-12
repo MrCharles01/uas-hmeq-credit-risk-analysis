@@ -36,5 +36,3 @@ uas-machine-learning-hmeq/
 ├── .gitignore
 ├── notebooks/
 ├── data/
-├── outputs/
-└── docs/
